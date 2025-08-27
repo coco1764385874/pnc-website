@@ -565,8 +565,6 @@ tr:hover {
     background: #fafafa;
 }
 
-.I {}
-
 .H {
     color: rgb(12, 147, 236);
 }
@@ -881,6 +879,14 @@ footer ul li a:hover {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.X{
+    font-size: 30px;
 }
 
 
